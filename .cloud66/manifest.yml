@@ -1,6 +1,6 @@
 rails:
     configuration:
-        ruby_version: 2.1.5
+        ruby_version: 2.6.5
         operating_system: ubuntu1604
     environment_variables:
         DATABASE_HOST: changeme
